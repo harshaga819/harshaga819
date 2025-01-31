@@ -1,66 +1,46 @@
 # Harsh Agarwal
 
-### Data Analyst
+### Aspiring Data Analyst | Computer Science & Engineering Student
 
 ### Welcome to My GitHub Profile
 
-I am Harsh, and I have a passion for exploring and analyzing data to identify patterns and trends that can make informed business decisions. I possess the skills necessary to analyze complex data sets and build predictive models. I am constantly seeking to learn and grow in the field of data science, and I am committed to staying up-to-date with the latest trends and technologies.
+I am Harsh, a motivated Computer Science and Engineering student with a strong passion for data analysis and problem-solving. I specialize in exploring and analyzing data to identify patterns and trends that drive meaningful insights. I am continuously learning and enhancing my technical skills to stay updated with the latest advancements in data science and engineering.
 
 ## 🔗 About Me:
 
-- 🌱 Currently learning and exploring data science and machine learning models.
-- 🤝 Interested in collaborating on Data Analysis and Machine Learning projects.
-- 💻 Experienced in data analytics skills such as Python, SQL, and Power BI.
-- 🎨 Frontend skills: Experienced in HTML, CSS, JavaScript.
-- 🧠 Continuously expanding knowledge in data science and exploring new models and methodologies.
+- 🌱 Currently learning and exploring data science, machine learning, and data visualization.
+- 🤝 Looking for opportunities to collaborate on data analysis, machine learning, and web development projects.
+- 💻 Experienced in Python, SQL, Power BI, and web technologies.
+- 🎨 Web development skills include HTML, CSS, and JavaScript.
+- 🧠 Enthusiastic about solving real-world problems through data-driven solutions.
 
 ## 💻 Technical Skills:
 
-### **Python for Data Science:**
+### **Data Science & Analytics:**
 
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
+- Python (NumPy, Pandas, Matplotlib, Seaborn)
+- Excel (Pivot Tables, Charts, Conditional Formatting, Advanced Formulas)
+- SQL (Window Functions, CTE, Joins, Subqueries)
+- Power BI (Data Visualization, Dashboard Creation)
 
-### **Excel:**
+### **Machine Learning & Statistics:**
 
-- Pivot Table
-- Charts
-- Conditional Formatting
-- Advanced Formulas
-- Functions like VLookup, HLookup, XLookup
-
-### **Database Management (SQL):**
-
-- Window Functions
-- CTE
-- Temporary Tables
-- Joins and Union
-- Subqueries
-
-### **Visualization Tools:**
-
-- Power BI
-- Excel
-
-### **Statistics:**
-
-- Descriptive Statistics
-- Inferential Statistics
+- Descriptive & Inferential Statistics
 - Hypothesis Testing
+- Supervised Learning (Linear Regression, Logistic Regression, Decision Trees, Random Forest, KNN)
+- Unsupervised Learning (Clustering, Dimensionality Reduction Techniques)
 
-### **Machine Learning:**
+### **Web Development:**
 
-- **Supervised Learning Algorithms:** Linear Regression, Logistic Regression, Random Forest, Decision Tree, K-Nearest Neighbour
-- **Unsupervised Learning Algorithms:** Clustering, Dimensionality Reduction Techniques
+- HTML, CSS, JavaScript
 
-### **Frontend Development Skills:**
+## 🚀 Projects:
 
-- HTML (Hypertext Markup Language)
-- CSS (Cascading Style Sheets)
-- JavaScript
-
+1. **IPL 2025 Auction Analysis** - Web scraping and data analytics to analyze player performance and auction trends.
+2. **Road Accident Data Analysis** - Performed in-depth analysis of accident data to identify trends and factors influencing road safety.
+3. **Thundra - Weather App** - Built using HTML, CSS, and JavaScript, featuring location-based weather updates.
+4. **Simson Game** - A memory-based game where users recall the previous color sequence, with a new color added at every level.
+5. **Mental Health Chatbot** - Developed during a hackathon using Python, with a focus on mental health support.
 ## 😎 Portfolio:
 
 [Check out my Portfolio](https://harshagarwalportfolio.netlify.app/)
@@ -69,11 +49,12 @@ I am Harsh, and I have a passion for exploring and analyzing data to identify pa
 
 [LinkedIn](https://www.linkedin.com/in/harshaga819/)
 
-## 🌐 Languages:
+## 🌐 Languages & Tools:
 
 - Python
 - SQL
-- C++
 - JavaScript
 - HTML5
 - CSS3
+- Git & GitHub
+- Linux
