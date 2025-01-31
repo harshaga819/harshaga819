@@ -41,13 +41,6 @@ I am Harsh, a motivated Computer Science and Engineering student with a strong p
 3. **Thundra - Weather App** - Built using HTML, CSS, and JavaScript, featuring location-based weather updates.
 4. **Simson Game** - A memory-based game where users recall the previous color sequence, with a new color added at every level.
 5. **Mental Health Chatbot** - Developed during a hackathon using Python, with a focus on mental health support.
-## 😎 Portfolio:
-
-[Check out my Portfolio](https://harshagarwalportfolio.netlify.app/)
-
-## 📫 Connect with Me:
-
-[LinkedIn](https://www.linkedin.com/in/harshaga819/)
 
 ## 🌐 Languages & Tools:
 
