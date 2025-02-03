@@ -20,15 +20,8 @@ I am Harsh, a motivated Computer Science and Engineering student with a strong p
 
 - Python (NumPy, Pandas, Matplotlib, Seaborn)
 - Excel (Pivot Tables, Charts, Conditional Formatting, Advanced Formulas)
-- SQL (Window Functions, CTE, Joins, Subqueries)
+- SQL (Window Functions, Joins, Subqueries)
 - Power BI (Data Visualization, Dashboard Creation)
-
-### **Machine Learning & Statistics:**
-
-- Descriptive & Inferential Statistics
-- Hypothesis Testing
-- Supervised Learning (Linear Regression, Logistic Regression, Decision Trees, Random Forest, KNN)
-- Unsupervised Learning (Clustering, Dimensionality Reduction Techniques)
 
 ### **Web Development:**
 
