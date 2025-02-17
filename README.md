@@ -10,7 +10,7 @@ I am Harsh, a motivated Computer Science and Engineering student with a strong p
 
 - 🌱 Currently learning and exploring data science, machine learning, and data visualization.
 - 🤝 Looking for opportunities to collaborate on data analysis, machine learning, and web development projects.
-- 💻 Experienced in Python, SQL, Power BI, and web technologies.
+- 💻 Experienced in Python, SQL, and web technologies.
 - 🎨 Web development skills include HTML, CSS, and JavaScript.
 - 🧠 Enthusiastic about solving real-world problems through data-driven solutions.
 
@@ -19,9 +19,7 @@ I am Harsh, a motivated Computer Science and Engineering student with a strong p
 ### **Data Science & Analytics:**
 
 - Python (NumPy, Pandas, Matplotlib, Seaborn)
-- Excel (Pivot Tables, Charts, Conditional Formatting, Advanced Formulas)
 - SQL (Window Functions, Joins, Subqueries)
-- Power BI (Data Visualization, Dashboard Creation)
 
 ### **Web Development:**
 
