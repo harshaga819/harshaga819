@@ -1,10 +1,10 @@
 # Harsh Agarwal
 
-### Aspiring Data Analyst | Computer Science & Engineering Student
+### Aspiring Data Scientist | Computer Science & Engineering Student
 
 ### Welcome to My GitHub Profile
 
-I am Harsh, a motivated Computer Science and Engineering student with a strong passion for data analysis and problem-solving. I specialize in exploring and analyzing data to identify patterns and trends that drive meaningful insights. I am continuously learning and enhancing my technical skills to stay updated with the latest advancements in data science and engineering.
+I am Harsh, a motivated Computer Science and Engineering student with a strong passion for data scientist and problem-solving. I specialize in exploring and analyzing data to identify patterns and trends that drive meaningful insights. I am continuously learning and enhancing my technical skills to stay updated with the latest advancements in data science and engineering.
 
 ## 🔗 About Me:
 
@@ -12,18 +12,64 @@ I am Harsh, a motivated Computer Science and Engineering student with a strong p
 - 🤝 Looking for opportunities to collaborate on data analysis, machine learning, and web development projects.
 - 💻 Experienced in Python, SQL, and web technologies.
 - 🎨 Web development skills include HTML, CSS, and JavaScript.
-- 🧠 Enthusiastic about solving real-world problems through data-driven solutions.
+- 🧠 Continuously expanding knowledge in data science and exploring new models and methodologies.
 
 ## 💻 Technical Skills:
 
 ### **Data Science & Analytics:**
 
-- Python (NumPy, Pandas, Matplotlib, Seaborn)
-- SQL (Window Functions, Joins, Subqueries)
+Python for Data Science: 
 
-### **Web Development:**
+    1. NumPy      
+    2. Pandas       
+    3. Matplotlib      
+    4. Seaborn      
+    5. Scikit Learn      
 
-- HTML, CSS, JavaScript
+Database Management (SQL):
+        
+    1. CRUD
+    2. CTE                 
+    3. Joins and Union       
+    4. Subqueries
+
+Statistics:
+
+     1. Descriptive Statistics      
+     2. Inferential Statistics            
+     3. Hypothesis Testing
+      
+Machine Learning:
+
+     1. Supervised Learning Algorithm: Linear Regression, Logistic Regression, Random Forest, Decision Tree, K-Nearest Neighbour
+     2. Unsupervised Learning Algorithm: Clustering, Dimensionality Reduction Techniques
+
+
+### **Frontend Development Skills:** 
+
+    1. HTML (Hypertext Markup Language)         
+    2. CSS (Cascading Style Sheets)        
+    3. JavaScript  
+
+😎 Have a look at my <a href="https://harshagarwalportfolio.netlify.app/" target="_blank">Portfolio<a/>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="http://www.linkedin.com/in/harshaga819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/harshaga819" height="30" width="40" /></a>
+
+</p>
+<h3 align="left">Languages: </h3>
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img width="40" height="40" src="https://user-images.githubusercontent.com/77038661/126056320-83821049-beec-4f4b-ae1b-cfa2697f6eca.png" alt="html5" />
+  <img width="40" height="40" src="https://user-images.githubusercontent.com/77038661/126056387-2f04d5ca-4f92-4fd1-b0e7-aa923436afb8.png" alt="css3" />
+    
+
+
+</p>
 
 ## 🚀 Projects:
 
