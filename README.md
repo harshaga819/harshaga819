@@ -2,6 +2,8 @@
 
 ### Aspiring Data Scientist | Computer Science & Engineering Student
 
+## 😎 Have a look at my <a href="https://harshhub.netlify.app/" target="_blank">Portfolio<a/>
+
 ### Welcome to My GitHub Profile
 
 I am Harsh, a motivated Computer Science and Engineering student with a strong passion for data scientist and problem-solving. I specialize in exploring and analyzing data to identify patterns and trends that drive meaningful insights. I am continuously learning and enhancing my technical skills to stay updated with the latest advancements in data science and engineering.
@@ -50,8 +52,6 @@ Machine Learning:
     1. HTML (Hypertext Markup Language)         
     2. CSS (Cascading Style Sheets)        
     3. JavaScript  
-
-😎 Have a look at my <a href="https://harshagarwalportfolio.netlify.app/" target="_blank">Portfolio<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
