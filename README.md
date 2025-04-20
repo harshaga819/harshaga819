@@ -73,11 +73,12 @@ Machine Learning:
 
 ## 🚀 Projects:
 
-1. **IPL 2025 Auction Analysis** - Web scraping and data analytics to analyze player performance and auction trends.
-2. **Road Accident Data Analysis** - Performed in-depth analysis of accident data to identify trends and factors influencing road safety.
-3. **Thundra - Weather App** - Built using HTML, CSS, and JavaScript, featuring location-based weather updates.
-4. **Simson Game** - A memory-based game where users recall the previous color sequence, with a new color added at every level.
-5. **Mental Health Chatbot** - Developed during a hackathon using Python, with a focus on mental health support.
+1. **RentWise** - **Rent Prediction System** – A machine learning-based web app that predicts rental prices using user inputs like location, area, and BHK.
+2. **IPL 2025 Auction Analysis** - Web scraping and data analytics to analyze player performance and auction trends.
+3. **Road Accident Data Analysis** - Performed in-depth analysis of accident data to identify trends and factors influencing road safety.
+4. **Thundra - Weather App** - Built using HTML, CSS, and JavaScript, featuring location-based weather updates.
+5. **Simson Game** - A memory-based game where users recall the previous color sequence, with a new color added at every level.
+6. **Mental Health Chatbot** - Developed during a hackathon using Python, with a focus on mental health support.
 
 ## 🌐 Languages & Tools:
 
