@@ -2,21 +2,21 @@
 
 ### Aspiring Data Scientist | Computer Science & Engineering Student
 
-## 😎 Have a look at my <a href="https://harshhub.netlify.app/" target="_blank">Portfolio<a/>
+## Have a look at my <a href="https://harshhub.netlify.app/" target="_blank">Portfolio<a/>
 
 ### Welcome to My GitHub Profile
 
 I am Harsh, a motivated Computer Science and Engineering student with a strong passion for data scientist and problem-solving. I specialize in exploring and analyzing data to identify patterns and trends that drive meaningful insights. I am continuously learning and enhancing my technical skills to stay updated with the latest advancements in data science and engineering.
 
-## 🔗 About Me:
+## About Me:
 
-- 🌱 Currently learning and exploring data science, machine learning, and data visualization.
-- 🤝 Looking for opportunities to collaborate on data analysis, machine learning, and web development projects.
-- 💻 Experienced in Python, SQL, and web technologies.
-- 🎨 Web development skills include HTML, CSS, and JavaScript.
-- 🧠 Continuously expanding knowledge in data science and exploring new models and methodologies.
+- Currently learning and exploring data science, machine learning, and data visualization.
+- Looking for opportunities to collaborate on data analysis, machine learning, and web development projects.
+- Experienced in Python, SQL, and web technologies.
+- Web development skills include HTML, CSS, and JavaScript.
+- Continuously expanding knowledge in data science and exploring new models and methodologies.
 
-## 💻 Technical Skills:
+## Technical Skills:
 
 ### **Data Science & Analytics:**
 
@@ -71,7 +71,7 @@ Machine Learning:
 
 </p>
 
-## 🚀 Projects:
+## Projects:
 
 1. **RentWise** - **Rent Prediction System** – A machine learning-based web app that predicts rental prices using user inputs like location, area, and BHK.
 2. **IPL 2025 Auction Analysis** - Web scraping and data analytics to analyze player performance and auction trends.
@@ -80,7 +80,7 @@ Machine Learning:
 5. **Simson Game** - A memory-based game where users recall the previous color sequence, with a new color added at every level.
 6. **Mental Health Chatbot** - Developed during a hackathon using Python, with a focus on mental health support.
 
-## 🌐 Languages & Tools:
+## Languages & Tools:
 
 - Python
 - SQL
