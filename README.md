@@ -206,18 +206,6 @@ Analyzed road accident datasets to identify accident patterns, contributing fact
 
 ---
 
-### 8. Thundra – Weather App
-
-A responsive weather application built using HTML, CSS, and JavaScript that provides real-time weather information based on user location.
-
----
-
-### 9. Simon Game
-
-A browser-based memory game developed using HTML, CSS, and JavaScript that challenges users to remember increasingly complex color sequences.
-
----
-
 ## Currently Learning
 
 * AI Agents
